@@ -1,0 +1,12 @@
+.compteur {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin: 4px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.compteur button {
+    min-width: 50px;
+}
